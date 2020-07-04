@@ -1,22 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jums.club/kbooks/longyingtai/</loc>
+    <loc>https://jums.club/kbooks/moyan/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>  <url>
+    <loc>https://jums.club/kbooks/Morimura-Makoto/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>  <url>
+    <loc>https://jums.club/kbooks/Edogawa-chaos/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>  <url>
+    <loc>https://jums.club/kbooks/Yokoyama-Hideo/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>  <url>
+    <loc>https://jums.club/kbooks/Miyuki-Miyabe/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>  <url>
+    <loc>https://jums.club/kbooks/Kyoji-Xiayan/</loc>
     <lastmod>2020-07-04</lastmod>
   </url>  <url>
     <loc>https://jums.club/kbooks/literature/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>  <url>
+    <loc>https://jums.club/kbooks/readme-first/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>  <url>
+    <loc>https://jums.club/kbooks/wangxiaobo/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>  <url>
+    <loc>https://jums.club/kbooks/Matsumoto-Clear/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>  <url>
+    <loc>https://jums.club/kbooks/japan-reasoning-novelist/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>  <url>
+    <loc>https://jums.club/kbooks/Shimada-Shoji/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>  <url>
+    <loc>https://jums.club/kbooks/longyingtai/</loc>
     <lastmod>2020-07-04</lastmod>
   </url>  <url>
     <loc>https://jums.club/kbooks/history/</loc>
     <lastmod>2020-07-04</lastmod>
   </url>  <url>
     <loc>https://jums.club/kbooks/guiwu/</loc>
-    <lastmod>2020-07-04</lastmod>
-  </url>  <url>
-    <loc>https://jums.club/kbooks/moyan/</loc>
-    <lastmod>2020-07-04</lastmod>
-  </url>  <url>
-    <loc>https://jums.club/kbooks/hello-world/</loc>
     <lastmod>2020-07-04</lastmod>
   </url>  <url>
     <loc>https://jums.club/kbooks/academic-books/</loc>
@@ -44,9 +71,6 @@
     <lastmod>2020-06-28</lastmod>
   </url>  <url>
     <loc>https://jums.club/kbooks/luxun/</loc>
-    <lastmod>2020-06-28</lastmod>
-  </url>  <url>
-    <loc>https://jums.club/kbooks/wangxiaobo/</loc>
     <lastmod>2020-06-28</lastmod>
   </url>
 </urlset>
