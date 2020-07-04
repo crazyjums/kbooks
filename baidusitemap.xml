@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://jums.club/kbooks/guiwu/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>  <url>
     <loc>https://jums.club/kbooks/academic-books/</loc>
     <lastmod>2020-07-04</lastmod>
   </url>  <url>
@@ -35,9 +38,6 @@
     <lastmod>2020-07-04</lastmod>
   </url>  <url>
     <loc>https://jums.club/kbooks/luxun/</loc>
-    <lastmod>2020-07-04</lastmod>
-  </url>  <url>
-    <loc>https://jums.club/kbooks/guiwu/</loc>
     <lastmod>2020-07-04</lastmod>
   </url>  <url>
     <loc>https://jums.club/kbooks/Shimada-Shoji/</loc>
